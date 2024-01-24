@@ -1,0 +1,6 @@
+com\crud\crudAPI\serice\CorceServiceImpl.class
+com\crud\crudAPI\dao\CoureceDao.class
+com\crud\crudAPI\controller\CouresController.class
+com\crud\crudAPI\entity\Cource.class
+com\crud\crudAPI\CrudApiApplication.class
+com\crud\crudAPI\serice\CourceService.class
